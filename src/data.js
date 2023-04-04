@@ -7,6 +7,14 @@ export const projects = [
     image: "./Pokedex.jpg",
     link: "https://olaunder-pokedex-app.netlify.app/",
   },
+  {
+    title: "Pokedex App",
+    subtitle: "React Hooks & API",
+    description:
+      "Created a pokedex app using React",
+    image: "./Pokedex.jpg",
+    link: "https://olaunder-pokedex-app.netlify.app/",
+  },
 ];
 
 export const skills = [
