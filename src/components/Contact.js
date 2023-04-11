@@ -51,7 +51,8 @@ export default function Contact() {
             Contact
           </h2>
           <p className="leading-relaxed mb-5">
-            If you want to get into contact with me please send me a message using this form or directly email me at olaunder@gmail.com. Thank you for visiting my portfolio page!
+            If you want to get into contact with me please send me a message using this form or email me directly at olaunder@gmail.com. 
+            <br></br>Thank you for visiting my portfolio page!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
