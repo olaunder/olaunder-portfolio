@@ -12,15 +12,13 @@ export default function About() {
             Welcome to my Portfolio Page!
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I have recently completed a Diploma in IT (50220) and am now looking for work as a junior web developer in a position that will offer career progression and professional development. This site showcases some of the websites that I have created as personal projects and during my diploma. 
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
+              Contact Me
             </a>
             <a
               href="#projects"
