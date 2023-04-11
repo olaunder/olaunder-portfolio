@@ -14,7 +14,7 @@ export default function Skills() {
             Web Development Skills
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Here is a list of languages that I have worked with during my Diploma and on some of my personal projects.
+            Here is a list of languages and tools that I have worked with during my Diploma and on some of my personal projects.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
