@@ -12,7 +12,7 @@ export default function About() {
             Welcome to my Portfolio Page!
           </h1>
           <p className="mb-8 leading-relaxed">
-            I have recently completed a Diploma in IT (50220) and am now looking for work as a junior web developer in a position that will offer career progression and professional development. This site showcases some of the websites that I have created as personal projects and during my diploma. 
+            I have recently completed a Diploma in IT (50220) and am now looking for work in an entry level IT position that will offer career progression and professional development. This site showcases some of the websites that I have created as personal projects and during my diploma. 
           </p>
           <div className="flex justify-center">
             <a
