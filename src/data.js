@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Created a car rental website using PHP, HTML, CSS, JavaScript and SQL. This website was created for the unit ICTWEB513 for my Diploma of IT. Functionalities of the website include; user registration, user login, listing rentals from a database, checking if rentals are available, rating and return vehicle.",
     image: "./rapid.jpg",
-    link: "https://olaunder.x10.mx/index.php",
+    link: "https://rapidrentals.x10.mx/index.php",
   },
 ];
 
